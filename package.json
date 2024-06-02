@@ -1,0 +1,23 @@
+{
+  "name": "luka-package",
+  "version": "1.0.0",
+  "description": "Luka is a discord bot that will have different functionalities like file conversion, compressing and video editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "node.js",
+    "js",
+    "javascript",
+    "luka"
+  ],
+  "author": "Santino Brenna, Felipe Poletti, Juan Martín Ribotta, Tomás Temporelli",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
+}
